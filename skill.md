@@ -429,4 +429,5 @@ Check these danger signs FIRST before deep analysis:
 - **No hallucination**: Only reference text actually in document
 - **Show what's acceptable**: Always include "Reviewed & Acceptable" section
 - **Document status matters**: Note if already executed (review is informational)
+- **Stay scoped**: Address the issues the user asked about. Unrelated defects → flag in a separate "Other Observations" section after the prioritized risk analysis. Never silently rewrite or expand the brief.
 
