@@ -49,11 +49,11 @@ This affects what's "risky":
 
 ## Output Format
 
-Use **markdown** for readable, scannable output. Do NOT use XML tags.
+Use **markdown** for readable, scannable output.
 
 ---
 
-### Example Output
+### Example Output (illustrative: a US SaaS agreement; follow the contract's own jurisdiction, currency and section structure, and let length follow the document)
 
 ```markdown
 # Contract Review: [Document Name]
